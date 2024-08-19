@@ -1,4 +1,5 @@
 Readme File
+
 This package contain sources and supporting function/data files to predict the carbonate mineral and isotope (d18O, d13C and clumped) values of sediment in Himalayan River systems.
 As part of a paper "Late Miocene uplift and exhumation of the Lesser Himalaya recorded by clumped isotope compositions of detrital carbonate" by U. Ryb, C. Ponton, C. France-Lanord, K. Yoshida, and J. M. Eiler.
 For further details, please see Note S1 in the supplementary material file of the manuscript.
